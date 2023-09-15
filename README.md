@@ -1,2 +1,3 @@
-# aprendendoHTML
-Local para exibir conteúdo do aprendizado
+### Hey 👋
+
+- Espaço para compartilhar meu aprendizado com HTML/CSS
